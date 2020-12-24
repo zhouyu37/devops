@@ -14,7 +14,7 @@ Params = {
     'log_file': '%s/logs/run_log' % BaseDir,
 
     'auth':{
-        'user':'test18@lenovo.com',
+        'user':'test18@bw30.com',
         'token': '**'
         },
 }
